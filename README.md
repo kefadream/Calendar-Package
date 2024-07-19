@@ -1,4 +1,4 @@
-#![Main_interface](https://github.com/user-attachments/assets/8ce6a707-f517-49fd-8f02-ef0bc37c5902)
+# Examples
 ![horaire_ex1](https://github.com/user-attachments/assets/3323c9df-f685-4098-b986-7a4c3e1d7b58)
 ![HoraireGestionEx1](https://github.com/user-attachments/assets/f90f304f-8026-40f1-88af-7f3c081e62a9)
 
@@ -14,6 +14,8 @@ Ce projet est une application Tkinter pour la gestion des horaires. Il permet de
 - Sauvegarder un horaire
 - Afficher l'horaire en vue quotidienne, hebdomadaire et mensuelle
 - Éditer les tâches et notes pour chaque horaire
+#![Main_interface](https://github.com/user-attachments/assets/8ce6a707-f517-49fd-8f02-ef0bc37c5902)
+
 
 ## Utilisation (De John)
 1. Ouvre ta console et tappe : 
