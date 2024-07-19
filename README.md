@@ -10,6 +10,18 @@ Ce projet est une application Tkinter pour la gestion des horaires. Il permet de
 - Afficher l'horaire en vue quotidienne, hebdomadaire et mensuelle
 - Éditer les tâches et notes pour chaque horaire
 
+## Utilisation (De John)
+1. Ouvre ta console et tappe : 
+```
+cd chemin_vers_src_du_projet
+```
+
+
+2. Ensuite tappe :
+```
+python main.py
+```
+
 ## Installation
 
 1. Clonez le dépôt :

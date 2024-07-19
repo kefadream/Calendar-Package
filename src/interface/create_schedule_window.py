@@ -11,7 +11,7 @@ Classes:
 import tkinter as tk
 from tkinter import ttk, messagebox
 import logging
-from src.core import HoraireCreator
+from core import HoraireCreator
 
 
 class CreateScheduleWindow:

@@ -20,9 +20,9 @@ from .create_schedule_window import CreateScheduleWindow
 from .load_window import LoadWindow
 from .views import DailyViewWindow, WeeklyViewWindow, MonthlyViewWindow
 
-from src.core import Horaire, SautDeTempsSecondes, SautDeTempsMinutes, SautDeTempsHeures, HoraireCreator
-from src.config import load_config, save_config
-from src.exceptions import *
+from core import Horaire, SautDeTempsSecondes, SautDeTempsMinutes, SautDeTempsHeures, HoraireCreator
+from config import load_config, save_config
+from exceptions import *
 
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')

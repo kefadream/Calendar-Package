@@ -5,7 +5,7 @@ Module pour la création d'horaires.
 """
 
 from datetime import datetime
-from src.core import Horaire, SautDeTempsSecondes, SautDeTempsMinutes, SautDeTempsHeures
+from core import Horaire, SautDeTempsSecondes, SautDeTempsMinutes, SautDeTempsHeures
 
 
 class HoraireCreator:

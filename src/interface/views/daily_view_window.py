@@ -2,7 +2,7 @@ import tkinter as tk
 from tkinter import ttk
 from datetime import timedelta
 from .base_view import BaseCalendarView
-from src.core import HoraireEditor
+from core import HoraireEditor
 
 
 class DailyViewWindow(BaseCalendarView):
