@@ -3,7 +3,7 @@
 ![HoraireGestionEx1](https://github.com/user-attachments/assets/f90f304f-8026-40f1-88af-7f3c081e62a9)
 
 
- Gestion d'Horaires
+## Gestion d'Horaires
 
 Ce projet est une application Tkinter pour la gestion des horaires. Il permet de créer, charger, sauvegarder et afficher les horaires sous différentes vues (quotidienne, hebdomadaire, mensuelle).
 
