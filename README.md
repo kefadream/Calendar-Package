@@ -17,7 +17,7 @@ Ce projet est une application Tkinter pour la gestion des horaires. Il permet de
 #![Main_interface](https://github.com/user-attachments/assets/8ce6a707-f517-49fd-8f02-ef0bc37c5902)
 
 
-## Utilisation (De John)
+## Utilisation example
 1. Ouvre ta console et tappe : 
 ```
 cd chemin_vers_src_du_projet
